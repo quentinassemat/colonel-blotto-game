@@ -1,0 +1,1 @@
+Since the GitHub viewer for *.ipynb files is not full-featured, you will have better results using `nbviewer` for viewing the [notebook](https://nbviewer.jupyter.org/github/vx19/colonel-blotto-game/blob/main/blotto.ipynb).
